@@ -92,7 +92,6 @@ int main(){
 		cout << "		Terima kasih telah Datang"<<endl;	
 		cout << "	       	Selamat menikmati"<<endl;
 	
-	getch();
 		return 0;
 	}
 		
