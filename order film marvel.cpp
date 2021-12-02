@@ -18,6 +18,7 @@ void isifilm(){
 		cout<<"|	[4] Avenger Infinity War                            |"   <<endl;
 		cout<<"|	[5] Black Panther                                   |"   <<endl;
 		cout<<"--------------------------------------------------------------"<<endl;
+	//fungsi 
 }
 //buat space
 void n(){
@@ -40,6 +41,7 @@ int main(){
 		
 		
 		cout<<" Silahkan Pilih FIlm yang ingin Disewa : ";cin >>nama;
+		//perulangan memilih film
 			
 			if(nama==1){
 				marvel="Avenger End Game";
@@ -67,9 +69,11 @@ int main(){
 			}
 		cout<<" Anda memilih " << marvel <<endl;
 		cout<<" Harga       = " << harga[z]<<" Sewa 1 Bulan"<<endl;
+		//pengisian harga
 		
 		n();
 		cout<<" Durasi Sewa (Minimal 1 Bulan): ";cin>> bulan;
+		//lama sewa 
 		
 		n();
 		cout << " Nama Pemesan          : "	<< namaku  <<endl;
