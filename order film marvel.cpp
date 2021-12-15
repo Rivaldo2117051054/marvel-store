@@ -9,7 +9,7 @@ void title(){
 	string judul="==================== Marvel Film store ============";
 	cout<<judul<<endl; 
 }   
-void isifilm(){ 
+void isifilm(){  
 	cout<<"FIlm Marvel yang tersedia---"<<endl;
 		cout<<"--------------------------------------------------------------"<<endl;
 		cout<<"|	[1] Avenger End Game                                |"   <<endl;
