@@ -19,7 +19,7 @@ void isifilm(){
 		cout<<"|	[5] Black Panther                                   |"   <<endl;
 		cout<<"--------------------------------------------------------------"<<endl;
 	//fungsi 
-}
+} 
 //buat space 
 void n(){
 	cout<<endl;
