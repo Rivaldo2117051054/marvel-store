@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-string marvel,namaku; 
+string marvel,namaku;  
 char back; 
 int harga[5]{98000, 30000, 35000, 90000, 55000},bulan,bayar,kurang,kembali,nama,z=0;
 
