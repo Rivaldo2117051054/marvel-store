@@ -29,7 +29,7 @@ int total(){
 	int p=bulan;
 	int q=harga[z];
 	return p*q;
-}
+} 
 
 int main(){
 	do{
