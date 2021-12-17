@@ -23,7 +23,7 @@ void isifilm(){
 //buat space 
 void n(){
 	cout<<endl;
-} 
+}  
 
 int total(){
 	int p=bulan;
