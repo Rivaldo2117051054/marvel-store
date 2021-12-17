@@ -22,7 +22,7 @@ void isifilm(){
 }  
 //buat space 
 void n(){
-	cout<<endl;
+	cout<<endl; 
 }  
 
 int total(){
