@@ -20,7 +20,7 @@ void isifilm(){
 		cout<<"--------------------------------------------------------------"<<endl;
 	//fungsi 
 }  
-//buat space 
+//buat space  
 void n(){
 	cout<<endl; 
 }  
