@@ -30,7 +30,7 @@ int total(){
 	int q=harga[z]; 
 	return p*q;
 } 
-
+ 
 int main(){
 	do{
 	system("CLS");
