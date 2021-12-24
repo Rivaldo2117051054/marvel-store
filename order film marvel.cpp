@@ -25,7 +25,7 @@ void n(){
 	cout<<endl; 
 }  
 
-int total(){
+int total(){ 
 	int p=bulan;
 	int q=harga[z]; 
 	return p*q;
