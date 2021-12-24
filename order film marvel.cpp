@@ -31,7 +31,7 @@ int total(){
 	return p*q;
 } 
  
-int main(){  
+int main(){   
 	do{
 	system("CLS");
 	title();
