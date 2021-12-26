@@ -96,7 +96,7 @@ int main(){
 		cout << "		Terima kasih telah Datang"<<endl;	
 		cout << "	       	Selamat menikmati"<<endl;
 	
-		return 0;
+		return 0; 
 	}
 		
 	
