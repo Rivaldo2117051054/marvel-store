@@ -27,7 +27,7 @@ void n(){
 
 int total(){ 
 	int p=bulan;
-	int q=harga[z]; 
+	int q=harga[z];  
 	return p*q;
 } 
  
