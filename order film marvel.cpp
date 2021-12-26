@@ -21,7 +21,7 @@ void isifilm(){
 	//fungsi 
 }  
 //buat space  
-void n(){
+void n(){ 
 	cout<<endl;  
 }  
 
